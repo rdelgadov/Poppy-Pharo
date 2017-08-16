@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Poppy",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"movingSpeed",
+		"compliant",
+		"led",
+		"client"
+	],
+	"name" : "Motor",
+	"type" : "normal"
+}
