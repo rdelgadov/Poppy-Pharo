@@ -1,4 +1,4 @@
 initialization
 initialize
-	net := ZnClient new.
-	net port: 8080.
+	client := RobotHttpClient new.
+	client port: 8080

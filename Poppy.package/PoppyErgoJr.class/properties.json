@@ -8,7 +8,7 @@
 	"instvars" : [
 		"name",
 		"motors",
-		"net"
+		"client"
 	],
 	"name" : "PoppyErgoJr",
 	"type" : "normal"
