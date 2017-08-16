@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "",
-	"super" : "Object",
+	"super" : "AbstractRobotHttpClient",
 	"category" : "Poppy",
 	"classinstvars" : [ ],
 	"pools" : [ ],
