@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "AbstractRobotHttpClient",
+	"category" : "Poppy-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DummyHttpClient",
+	"type" : "normal"
+}
