@@ -1,3 +1,3 @@
 accessing
 compliant: isCompliant
-	client requestFrom: name change: 'compliant' to: isCompliant 
+	self change: 'compliant' to: isCompliant
