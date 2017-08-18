@@ -1,5 +1,5 @@
 accessing
-requestFrom: motor change: register to: value
+request: motor change: register to: value
 	"Requests the robot to change a motor's register's values"
 
 	| client |
