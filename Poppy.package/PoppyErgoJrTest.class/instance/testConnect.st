@@ -3,7 +3,7 @@ testConnect
 	| dummyClient motors |
 	dummyClient := DummyHttpClient new.
 	poppy client: dummyClient.
-	poppy connect.
+	poppy getRobotData.
 	motors := poppy motors.
 	self assert: poppy motors size equals: 2.
 	self assert: (motors at: 1) name equals: 'm1'.
