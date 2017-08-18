@@ -1,5 +1,5 @@
 as yet unclassified
-reduceSpeedTo: desiredSpeed
+changeSpeedTo: desiredSpeed
 	motors do: [ :motor |
 		motor setSpeedTo: desiredSpeed 
 		 ]
