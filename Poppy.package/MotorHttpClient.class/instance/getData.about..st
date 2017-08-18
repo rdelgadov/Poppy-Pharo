@@ -1,6 +1,7 @@
 as yet unclassified
-getInfoFrom: motor about: register
-"Requests info about a register from a given motor"
+getData: motor about: register
+	"Requests info about a register from a given motor"
+
 	| response |
 	response := ZnClient new
 		http;
