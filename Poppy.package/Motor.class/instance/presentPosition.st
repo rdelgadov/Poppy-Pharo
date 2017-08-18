@@ -1,3 +1,3 @@
 as yet unclassified
 presentPosition
-	self getInfoAbout: 'present_position'
+	client getData:  'm1' about:  'present_position'
