@@ -15,5 +15,5 @@ requestFrom: motor change: register to: value
 		addPath: MotorHttpClient registerPath;
 		addPath: register;
 		addPath: MotorHttpClient valuePath;
-		entity: (ZnEntity with: value printString type: ZnMimeType applicationJson);
-		post.
+		entity: (ZnEntity with: value asString type: ZnMimeType applicationJson);
+		post
