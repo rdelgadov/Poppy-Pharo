@@ -6,7 +6,9 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"client"
+		"client",
+		"host",
+		"port"
 	],
 	"name" : "RobotHttpClient",
 	"type" : "normal"
