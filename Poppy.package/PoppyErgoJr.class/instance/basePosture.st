@@ -1,3 +1,3 @@
 primitives
 basePosture
-	client startPrimitive: self class basePosturePrimitive
+	self callPrimitive: self class basePosturePrimitive

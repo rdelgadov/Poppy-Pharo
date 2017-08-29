@@ -1,3 +1,3 @@
 primitives
 rest
-	client startPrimitive: self class restPrimitive
+	self callPrimitive:  self class restPrimitive

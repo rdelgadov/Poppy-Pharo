@@ -1,3 +1,3 @@
 primitives
 dance
-	client startPrimitive: self class dancePrimitive
+	self callPrimitive:  self class dancePrimitive
