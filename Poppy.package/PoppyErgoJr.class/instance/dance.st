@@ -1,3 +1,3 @@
-as yet unclassified
+primitives
 dance
 	client startPrimitive: self class dancePrimitive

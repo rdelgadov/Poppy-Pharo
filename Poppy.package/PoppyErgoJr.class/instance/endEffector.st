@@ -1,3 +1,3 @@
-as yet unclassified
+end-effector
 endEffector
 	^ client getEndEffectorsPosition 

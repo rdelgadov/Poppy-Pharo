@@ -1,3 +1,3 @@
-as yet unclassified
+primitives
 stopDancing
 	client stopPrimitive: 'dance'

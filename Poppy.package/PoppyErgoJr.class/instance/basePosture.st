@@ -1,3 +1,3 @@
-as yet unclassified
+primitives
 basePosture
 	client startPrimitive: self class basePosturePrimitive
