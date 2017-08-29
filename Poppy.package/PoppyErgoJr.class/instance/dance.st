@@ -1,3 +1,3 @@
 as yet unclassified
 dance
-	client startPrimitive: 'dance'.
+	client startPrimitive: self class dancePrimitive

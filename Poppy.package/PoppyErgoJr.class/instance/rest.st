@@ -1,3 +1,3 @@
 as yet unclassified
 rest
-	client startPrimitive: 'rest_posture'
+	client startPrimitive: self class restPrimitive
