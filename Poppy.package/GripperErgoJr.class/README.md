@@ -1,0 +1,1 @@
+Represents an ErgoJr with a Gripper as end effector

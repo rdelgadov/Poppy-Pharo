@@ -1,0 +1,1 @@
+Represents an ErgoJr with a Cone as end effector, instead of a gripper
