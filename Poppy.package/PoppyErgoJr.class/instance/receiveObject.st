@@ -1,4 +1,4 @@
-as yet unclassified
+predefined-moves
 receiveObject
 	"#(-0.44 21.85 -4.84 -0.15 -34.46 -4.25)"
 
