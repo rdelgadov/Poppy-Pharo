@@ -1,3 +1,3 @@
 end-effector
 closeGripper
-(motors at: 6) turnTo: 10.
+(motors at: 6) turnTo: -25.
