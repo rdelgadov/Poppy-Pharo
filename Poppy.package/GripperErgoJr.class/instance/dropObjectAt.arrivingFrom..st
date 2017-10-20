@@ -1,9 +1,9 @@
 accessing
 dropObjectAt: motorsAngleAtDestination arrivingFrom: motorsAnglesAboveDestination
-	self turnMotorsTo: motorsAnglesAboveDestination.
+	self turnAllButEndEffectorTo: motorsAnglesAboveDestination.
 	2 seconds wait.
-	self turnMotorsTo: motorsAngleAtDestination.
+	self turnAllButEndEffectorTo: motorsAngleAtDestination.
 	2 seconds wait.
 	self openGripper.
 	2 seconds wait.
-	self turnMotorsTo: motorsAnglesAboveDestination
+	self turnAllButEndEffectorTo: motorsAnglesAboveDestination
