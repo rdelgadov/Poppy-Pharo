@@ -1,4 +1,4 @@
-as yet unclassified
+movement
 turnMotorsTo: positions
 	"Turns every motor to the position specified in the positions collection"
 	self assert: positions size equals: motors size.

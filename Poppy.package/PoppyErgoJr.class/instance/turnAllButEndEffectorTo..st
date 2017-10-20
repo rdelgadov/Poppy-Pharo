@@ -1,4 +1,4 @@
-as yet unclassified
+movement
 turnAllButEndEffectorTo: motorsAngles
 	"Moves every motor to the desired angle, except the last motor which corresponds to the end effector"
 

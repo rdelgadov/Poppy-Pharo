@@ -1,4 +1,4 @@
-as yet unclassified
+movement
 goTo: position inTime: time
 	| formattedPosition |
 	self assert: position size = 3.

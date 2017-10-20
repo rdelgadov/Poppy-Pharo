@@ -1,4 +1,4 @@
-as yet unclassified
+movement
 changeSpeedTo: desiredSpeed
 	motors do: [ :motor |
 		motor setSpeedTo: desiredSpeed 
