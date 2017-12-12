@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RequestHttpClient",
+	"category" : "Poppy",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CameraHttpClient",
+	"type" : "normal"
+}
