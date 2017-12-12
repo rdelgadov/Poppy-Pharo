@@ -1,15 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "Object",
+	"super" : "RequestHttpClient",
 	"category" : "Poppy",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"client",
-		"host",
-		"port"
-	],
+	"instvars" : [ ],
 	"name" : "RobotHttpClient",
 	"type" : "normal"
 }

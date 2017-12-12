@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "RodrigoDelgado 12/11/2017 18:14",
+	"super" : "Object",
+	"category" : "Poppy",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"client",
+		"host",
+		"port"
+	],
+	"name" : "RequestHttpClient",
+	"type" : "normal"
+}
