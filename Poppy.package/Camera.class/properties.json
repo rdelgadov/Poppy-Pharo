@@ -1,16 +1,13 @@
 {
-	"commentStamp" : "<historical>",
+	"commentStamp" : "",
 	"super" : "Object",
 	"category" : "Poppy",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"name",
-		"motors",
-		"client",
-		"camera"
+		"client"
 	],
-	"name" : "PoppyErgoJr",
+	"name" : "Camera",
 	"type" : "normal"
 }
