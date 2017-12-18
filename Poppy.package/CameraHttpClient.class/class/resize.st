@@ -1,4 +1,4 @@
 accessing
-cameraPath
+resize
 	"camera path from API"
-	^ 'frame'.
+	^ 'resize'.

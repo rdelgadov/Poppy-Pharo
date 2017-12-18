@@ -1,4 +1,4 @@
 accessing
-cameraPath
+frame
 	"camera path from API"
 	^ 'frame'.
